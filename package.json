@@ -1,0 +1,44 @@
+{
+  "preferGlobal": true,
+  "name": "learnyouhtml",
+  "version": "0.0.0",
+  "description": "Learn you how to create your first web-page",
+  "bin": {
+    "learnyouhtml": "./bin/learnyouhtml"
+  },
+  "scripts": {
+    "test": "eslint . && workshopper-adventure-test",
+    "postpublish": "git push --follow-tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denysdovhan/learnyouhtml.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "workshopper",
+    "tutorial",
+    "markdown",
+    "md"
+  ],
+  "author": "Denys Dovhan <email@denysdovhan.com> (http://denysdovhan.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denysdovhan/learnyouhtml/issues"
+  },
+  "homepage": "https://github.com/denysdovhan/learnyouhtml#readme",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "diff": "^3.2.0",
+    "workshopper-adventure": "^6.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "workshopper-adventure-test": "^1.1.0"
+  }
+}
