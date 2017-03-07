@@ -18,8 +18,8 @@
     "nodeschool",
     "workshopper",
     "tutorial",
-    "markdown",
-    "md"
+    "markup",
+    "html"
   ],
   "author": "Denys Dovhan <email@denysdovhan.com> (http://denysdovhan.com)",
   "license": "MIT",

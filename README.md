@@ -4,8 +4,8 @@
 
 [![NPM version][npm-image]][npm-url]
 [![node][node-image]][node-url]
-[![Dependency Status][depstat-image]][depstat-url]
 [![Build Status][buildstat-image]][buildstat-url]
+[![Dependency Status][depstat-image]][depstat-url]
 
 > Learn you how to create your first web-page.
 
