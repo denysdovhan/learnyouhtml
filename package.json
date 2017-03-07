@@ -31,8 +31,12 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
+    "chokidar": "^1.6.1",
     "colors": "^1.1.2",
     "diff": "^3.2.0",
+    "express": "^4.15.2",
+    "fast-html-parser": "^1.0.1",
+    "openurl": "^1.1.1",
     "workshopper-adventure": "^6.0.1"
   },
   "devDependencies": {
