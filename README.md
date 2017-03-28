@@ -27,7 +27,9 @@ If you are on Windows, make sure you are using at least version 5.1.0 of Node.js
 
 Open your terminal and run this command:
 
-    npm install -g learnyouhtml
+```
+npm install -g learnyouhtml
+```
 
 Use `sudo` if you get an `EACCESS` error.
 
@@ -35,7 +37,9 @@ Use `sudo` if you get an `EACCESS` error.
 
 Open your terminal and run the following command:
 
-    learnyouhtml
+```
+learnyouhtml
+```
 
 ## License
 
