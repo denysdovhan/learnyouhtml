@@ -21,7 +21,7 @@ This workshopper has X exercises that cover the most important aspects of HTML.
 
 If you are on Windows, make sure you are using at least version 5.1.0 of Node.js, which provides a fix for a bug in Windows where you can't choose items in the menu.
 
-* [**Node.js**](node-url) >=4.0.0 (>=5.1.0 for Windows)
+* [**Node.js**](node-url) >=6.0.0
 
 ## Installation
 
