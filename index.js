@@ -12,6 +12,7 @@ const learnyouhtml = workshopper({
 
 learnyouhtml.addAll([
   'HELLO WORLD',
+  'TAGS',
 ]);
 
 module.exports = learnyouhtml;
