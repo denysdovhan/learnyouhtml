@@ -31,7 +31,7 @@ const format = (file, data) => fs.readFileSync(file, 'utf8')
  */
 module.exports = function troubleshooting(data) {
   return [{
-    text: format(data.file, data),
+    text: format(data.troubleshooting, data),
     type: 'md',
   }, {
     text: '---',
