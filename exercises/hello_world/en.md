@@ -63,6 +63,8 @@ Create a new empty file called `index.html` and put these lines in there:
 </html>
 ```
 
+This is your boilerplate for all of next exercises. Everything you're going to do you'll do with that snippet.
+
 It's okay if you don't understand what is going on. This lines will be explained in following exercises.
 
 Run `learnyouhtml verify` to verify your solution or `learnyouhtml run` to see the result in the browser.
