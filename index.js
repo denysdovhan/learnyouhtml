@@ -21,6 +21,7 @@ learnyouhtml.addAll([
   'BLOCKS',
   'LINKS AND REFERENCES',
   'FORMS',
+  'STYLES AND SCRIPTS',
 ]);
 
 module.exports = learnyouhtml;
