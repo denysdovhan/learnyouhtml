@@ -15,6 +15,7 @@ learnyouhtml.addAll([
   'TAGS',
   'ATTRIBUTES',
   'INLINE TAGS',
+  'HEADINGS',
 ]);
 
 module.exports = learnyouhtml;
