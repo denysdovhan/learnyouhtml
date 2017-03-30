@@ -18,6 +18,7 @@ learnyouhtml.addAll([
   'HEADINGS',
   'LISTS',
   'TABLES',
+  'BLOCKS',
 ]);
 
 module.exports = learnyouhtml;
