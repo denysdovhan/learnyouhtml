@@ -19,6 +19,7 @@ learnyouhtml.addAll([
   'LISTS',
   'TABLES',
   'BLOCKS',
+  'LINKS AND REFERENCES',
 ]);
 
 module.exports = learnyouhtml;
