@@ -9,17 +9,25 @@
 
 > Learn you how to create your first web-page.
 
-Here is a simple boilerplate.
+**Hypertext Markup Language (HTML)** is the standard markup language for creating web pages and web applications. This workshopper will guide you through the simple exercises which explain the core principles of HTML.
 
 ## Exercises
 
-This workshopper has X exercises that cover the most important aspects of HTML.
+This workshopper has 11 exercises that cover the most important aspects of HTML.
 
 * **HELLO WORLD** — introduction to HTML.
+* **TAGS** — understanding tags.
+* **ATTRIBUTES** — what is tag's attributes.
+* **INLINE TAGS** — tags for styling text.
+* **HEADINGS** — tags for headings.
+* **LISTS** — how to create a list with HTML tags.
+* **TABLES** — how to compose data in table.
+* **BLOCKS** — block tags and semantic.
+* **LINKS AND REFERENCES** — how to leave a references to another page.
+* **FORMS** — creating of forms with control elements.
+* **STYLES AND SCRIPTS** — injecting styles and scripts on a page.
 
 ## Requirements
-
-If you are on Windows, make sure you are using at least version 5.1.0 of Node.js, which provides a fix for a bug in Windows where you can't choose items in the menu.
 
 * [**Node.js**](node-url) >=6.0.0
 
