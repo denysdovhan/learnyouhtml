@@ -19,5 +19,3 @@ Additionally, there is no limitation to the depth and alternation of nested list
 ```
 
 There are cases when it's not enough to summarize information in a simple list, that's where tables come. In following exercise we're going to take a look at tables in HTML.
-
-<!--  -->
