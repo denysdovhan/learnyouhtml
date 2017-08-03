@@ -27,7 +27,7 @@ Read more about other possible values here: https://developer.mozilla.org/en-US/
 
 ## THE CHALLENGE
 
-Create a with two inputs (for logic and password) and submit button.
+Create a with two inputs (for login and password) and submit button.
 
 Verify your document with `learnyouhtml verify` when you get a solution.
 
