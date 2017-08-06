@@ -17,7 +17,7 @@ HTML was made by the **World Wide Web Consortium (W3C)**. There are many version
 
 ### Why do I need to learn HTML?
 
-HTML is a cornerstone of web. It's what you see I your browser every time you open a favorite site.
+HTML is a cornerstone of web. It's what you see in your browser every time you open a favorite site.
 
 If you're going to work in web development area, then you definitely need to know what is HTML, how to read it and how to use it.
 
