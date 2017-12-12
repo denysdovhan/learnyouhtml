@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const chokidar = require('chokidar');
 const express = require('express');
-const open = require('openurl').open;
 
 const parse = require('./parse');
 const troubleshooting = require('./troubleshooting');
@@ -80,10 +79,8 @@ module.exports = (dirname) => {
 
     server.listen(process.env.HOST || 3000, () => {
       console.log(`
-        File is served on http://localhost:3000/
-        Hit Ctrl+C to exit.
+        Your webpage is served at /results
       `);
-      open('http://localhost:3000/');
     });
   };
 
