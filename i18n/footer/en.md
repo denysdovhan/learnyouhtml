@@ -1,4 +1,4 @@
 - To print these instructions again, run: `{appname} print`
-- To execute your program, run: `{appname} run file.htlm`
+- To execute your program, run: `{appname} run file.html`
 - To verify your program, run: `{appname} verify file.html`
 - For help run: `{appname} help`

@@ -25,4 +25,4 @@ One of the most important line is the first line:
 
 That's the <!DOCTYPE> declaration, which represents the document type, and helps browsers to display web pages correctly. It must only appear once, at the top of the page (before any HTML tags).
 
-After the <!DOCTYPE> declaration declaration we have special entities called _tags_, which may have _attributes_ with _values_. We're gonna take a look at this in following exercise.
+After the <!DOCTYPE> declaration we have special entities called _tags_, which may have _attributes_ with _values_. We're gonna take a look at this in following exercise.
