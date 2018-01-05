@@ -1,7 +1,7 @@
 {
   "preferGlobal": true,
   "name": "learnyouhtml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learn you how to create your first web-page",
   "bin": {
     "learnyouhtml": "./bin/learnyouhtml"
