@@ -4,7 +4,7 @@ You can attach a special resources to your page, like styles or scripts.
 
 A web page may be stylized using CSS stylesheets.
 
-> CSS or Cascading Style Sheets  is a style sheet language used for describing the presentation of a document written in HTML.
+> CSS or Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in HTML.
 
 You can include CSS on your page with `<style>` tag, which is used to contain style information for a document, or part of a document. By default, the style instructions written inside that element are expected to be CSS.
 
