@@ -48,25 +48,3 @@ Open your terminal and run the following command:
 ```
 learnyouhtml
 ```
-
-## License
-
-MIT © [Denys Dovhan](http://denysdovhan.com)
-
-<!-- References -->
-
-[html]: https://en.wikipedia.org/wiki/HTML
-
-<!-- Badges -->
-
-[npm-url]: https://npmjs.org/package/learnyouhtml
-[npm-image]: https://img.shields.io/npm/v/learnyouhtml.svg?style=flat-square
-
-[node-url]: https://nodejs.org/en/download/
-[node-image]: https://img.shields.io/node/v/learnyouhtml.svg?style=flat-square
-
-[depstat-url]: https://david-dm.org/denysdovhan/learnyouhtml
-[depstat-image]: https://david-dm.org/denysdovhan/learnyouhtml.svg?style=flat-square
-
-[buildstat-url]: https://travis-ci.org/denysdovhan/learnyouhtml
-[buildstat-image]: https://img.shields.io/travis/denysdovhan/learnyouhtml.svg?style=flat-square
